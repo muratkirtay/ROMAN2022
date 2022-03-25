@@ -1,0 +1,12 @@
+(lp0
+I4
+aI6
+aI4
+aI4
+aI4
+aI16
+aI12
+aI4
+aI10
+aI8
+a.
